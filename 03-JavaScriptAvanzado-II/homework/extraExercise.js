@@ -54,14 +54,15 @@ function oveja(ovejaProp) {
   }
 }
 
-let ovejaMaria = oveja('Maria')
+let ovejaMaria = oveja('Maria');
+let ovejaMartha = oveja('Martha');
+let ovejaCarlos = oveja('Carlos');
 
 ovejaMaria();
 ovejaMaria();
 ovejaMaria();
+ovejaCarlos();
+ovejaMartha();
+ovejaMartha();
+ovejaMartha();
 
-let ovejaMartha = oveja('Martha')
-
-ovejaMartha();
-ovejaMartha();
-ovejaMartha();
